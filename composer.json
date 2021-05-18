@@ -1,0 +1,35 @@
+{
+    "name": "lasallesoftwareserverless/render-blade-lambda",
+    "description": "Render Laravel views in AWS Lambda",
+    "keywords": [
+        "aws",
+        "lambda",
+        "laravel",
+        "lasalle software",
+        "bob bloom"      
+    ],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bob Bloom",
+            "email": "bob.bloom@lasallesoftware.ca",
+            "homepage": "https://PHPServerlessProject.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/container": "^8.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/events": "^8.0",
+        "illuminate/filesystem": "^8.0",
+        "illuminate/view": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lasallesoftwareserverless\\Renderbladelamdba\\": "src/"
+        }
+    }
+}
