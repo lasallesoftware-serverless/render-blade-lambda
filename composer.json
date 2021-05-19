@@ -1,6 +1,6 @@
 {
     "name": "lasallesoftwareserverless/render-blade-lambda",
-    "description": "Render Laravel views in AWS Lambda",
+    "description": "Render a Laravel Blade template in AWS Lambda without mounting a Laravel Application.",
     "keywords": [
         "aws",
         "lambda",
@@ -20,7 +20,6 @@
     ],
 
     "require": {
-        "php": "^7.4|^8.0",
         "illuminate/container": "^8.0",
         "illuminate/contracts": "^8.0",
         "illuminate/events": "^8.0",

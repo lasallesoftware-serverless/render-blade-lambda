@@ -14,13 +14,13 @@ My repo is clearly based on Torch's view component.
 Given:
 - the design of Torch
 - my very narrow interest in just Matt's view component
-- using this for AWS Lambda
+- my even more narrow interest in rendering a single Blade template in AWS Lambda
 
 The following does not make sense:
 - forking Torch
 - submitting a PR
 
-Matt does not need me mangling up his fabulous repository for the sake of shoe-horning it into Lambda. 
+Matt does not need me severely mangling up his fabulous repository for the sake of my narrow interests. 
 
 Thank you, Matt, for deciding to [assign Torch the MIT Licence](https://github.com/mattstauffer/Torch/commit/7ec886ad0505cab1d4d5bfdbce1988c4525d818f) a mere month ago (in April 2021)!
 
