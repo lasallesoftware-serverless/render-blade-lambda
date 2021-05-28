@@ -38,6 +38,24 @@ As reference, there is a wonderful blog post called [The MIT License, Line by Li
 Please note:
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## You Are Responsible For Your Amazon Web Services Charges
+
+The code in this software repository is specifically intended to be used in AWS Lambda functions. Lambda is a pay-per-use AWS service. That means that this code may, or will, trigger AWS charges for you.
+
+Your AWS charges from using code in this repository are your responsibility. 
+
+## Caveats
+
+Software and information in this repo:
+- may be out of date
+- may contain errors and/or omissions
+- may change without notice
+- is not designed to run as fast as possible within Lambda
+- is not designed to cause the least AWS charges
+- does not optimize AWS settings to cause the least AWS charges
+- does not optimize AWS security
+
+
 ## Links
 
-* [Change Log](CHANGELOG.md)
+- [Change Log](CHANGELOG.md)
