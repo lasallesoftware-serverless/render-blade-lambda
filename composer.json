@@ -1,5 +1,5 @@
 {
-    "name": "lasallesoftwareserverless/render-blade-lambda",
+    "name": "lasallesoftware-serverless/render-blade-lambda",
     "description": "Render a Laravel Blade template in AWS Lambda without mounting a Laravel Application.",
     "keywords": [
         "aws",
