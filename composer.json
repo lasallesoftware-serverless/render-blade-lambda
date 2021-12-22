@@ -19,10 +19,6 @@
         }
     ],
     "require": {
-        "illuminate/container": "^8.0",
-        "illuminate/contracts": "^8.0",
-        "illuminate/events": "^8.0",
-        "illuminate/filesystem": "^8.0",
         "illuminate/view": "^8.0"
     },
     "autoload": {
