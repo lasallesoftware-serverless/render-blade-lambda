@@ -1,6 +1,6 @@
 # LaSalle Software Serverless' Render Laravel Blade Templates in Lambda Package
 
-Render Laravel Blade templates in AWS Lambda without launching an entire Laravel Application.
+Render a Laravel Blade template in without mounting a Laravel Framework based Application. Created specifically to use in AWS Lambda functions written in PHP.
 
 
 ## With Deepest Appreciation
@@ -9,7 +9,7 @@ Thank you to Matt Stauffer, and to all contributors, for his Torch repository.
 
 [https://github.com/mattstauffer/Torch](https://github.com/mattstauffer/Torch)
 
-My repo is clearly based on Torch's view component. 
+My repo is adapted from Torch's view component. 
 
 Given:
 - the design of Torch
@@ -22,7 +22,7 @@ The following does not make sense:
 
 Matt does not need me severely mangling up his fabulous repository for the sake of my narrow interests. 
 
-Thank you, Matt, for deciding to [assign Torch the MIT Licence](https://github.com/mattstauffer/Torch/commit/7ec886ad0505cab1d4d5bfdbce1988c4525d818f) a mere month ago (in April 2021)!
+Thank you, Matt, for deciding to [assign Torch the MIT Licence](https://github.com/mattstauffer/Torch/commit/7ec886ad0505cab1d4d5bfdbce1988c4525d818f) a mere month before I needed to mess with it (in April 2021)!
 
 
 ## Security

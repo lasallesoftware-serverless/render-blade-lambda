@@ -1,25 +1,29 @@
 {
     "name": "lasallesoftware-serverless/render-blade-lambda",
-    "description": "Render a Laravel Blade template in AWS Lambda without mounting a Laravel Application.",
+    "description": "Render a Laravel Blade template in AWS Lambda without mounting a Laravel Framework based Application.",
     "keywords": [
         "aws",
         "lambda",
         "laravel",
+        "blade",
         "lasalle software",
         "bob bloom"      
     ],
     "license": "MIT",
-    "type": "project",
+    "homepage": "https://PHPServerlessProject.com",
+    "support": {
+        "issues": "https://github.com/lasallesoftware-serverless/render-blade-lambda/issues",
+        "source": "https://github.com/lasallesoftware-serverless/render-blade-lambda"
+    },
     "authors": [
         {
             "name": "Bob Bloom",
-            "email": "bob.bloom@lasallesoftware.ca",
-            "homepage": "https://PHPServerlessProject.com",
-            "role": "Developer"
+            "email": "bob.bloom@lasallesoftware.ca"
         }
     ],
     "require": {
-        "illuminate/view": "^8.0"
+        "php": "^8.0.2",
+        "illuminate/view": "^9.0"
     },
     "autoload": {
         "psr-4": {
