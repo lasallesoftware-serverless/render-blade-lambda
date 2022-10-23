@@ -24,6 +24,10 @@ Matt does not need me severely mangling up his fabulous repository for the sake 
 
 Thank you, Matt, for deciding to [assign Torch the MIT Licence](https://github.com/mattstauffer/Torch/commit/7ec886ad0505cab1d4d5bfdbce1988c4525d818f) a mere month before I needed to mess with it (in April 2021)!
 
+## Example
+
+An example of how to use this repo is at [https://github.com/lasallesoftware-serverless/sample-lambda-create-form-with-illuminate-view-package](https://github.com/lasallesoftware-serverless/sample-lambda-create-form-with-illuminate-view-package)
+
 
 ## Security
 
