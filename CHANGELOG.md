@@ -1,6 +1,9 @@
 # CHANGE LOG
 
-## VERSION 1.2.0 (March 25, 2021)
+## VERSION 1.3.0 (April 07, 2023)
+* [v1.3.0 issues](https://github.com/lasallesoftware-serverless/render-blade-lambda/milestone/4?closed=1)
+
+## VERSION 1.2.0 (March 25, 2022)
 * [v1.2.0 issues](https://github.com/lasallesoftware-serverless/render-blade-lambda/milestone/3?closed=1)
 
 ## VERSION 1.1.0 (December 22, 2021)
