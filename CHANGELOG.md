@@ -1,3 +1,6 @@
+## VERSION 1.5 (July 18, 2025)
+* [v1.5 issues](https://github.com/lasallesoftware-serverless/render-blade-lambda/milestone/6?closed=1)
+
 ## VERSION 1.4.0 (April 09, 2024)
 * [v1.4.0 issues](https://github.com/lasallesoftware-serverless/render-blade-lambda/milestone/5?closed=1)
 
